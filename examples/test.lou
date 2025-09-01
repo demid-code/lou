@@ -1,0 +1,6 @@
+// lou comment
+
+10 10 + dump
+60 20 - dump
+30 2  * dump
+160 2 / dump
