@@ -1,3 +1,4 @@
 todo.txt
 **/build/
 **/__pycache__/
+.vscode/
